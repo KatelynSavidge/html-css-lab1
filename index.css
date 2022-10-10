@@ -11,11 +11,15 @@ p {
 h1 {
     text-align: center;
 }
+
 body {
     background-color: rgb(225, 225, 225);
+    
 }
+
 img {
     padding: 10px
+    
 }
 
 fieldset

@@ -11,6 +11,9 @@ p {
 h1 {
     text-align: center;
 }
+body {
+    background-color: rgb(225, 225, 225);
+}
 img {
     padding: 10px
 }
@@ -19,6 +22,6 @@ fieldset
 {
   padding:10px;
   display:inline-block;
-  background-color:rgb(230, 240, 233);
+  background-color:rgb(227, 225, 225);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
